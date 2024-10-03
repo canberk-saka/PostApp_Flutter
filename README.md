@@ -1,16 +1,11 @@
 # posts_app
 
-A new Flutter project.
+Posts App, kullanıcıların gönderi verilerini görüntülemesine ve etkileşimde bulunmasına olanak tanıyan bir Flutter uygulamasıdır. Bu uygulama, kullanıcıların gönderileri çekmek için bir API kullanarak sonsuz kaydırma (infinite scroll) özelliği sunar.
 
-## Getting Started
+## Kullanılan Teknolojiler
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter**: Uygulamanın geliştirilmesi için kullanılan açık kaynaklı bir UI yazılım geliştirme kitidir.
+- **Dart**: Flutter uygulamalarını yazmak için kullanılan programlama dilidir.
+- **Provider**: Durum yönetimi için kullanılan bir kütüphanedir.
+- **Dio**: HTTP istekleri göndermek için kullanılan güçlü bir kütüphanedir.
+- **JSON**: Verilerin formatlanması ve taşınması için kullanılır.
